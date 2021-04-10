@@ -1,0 +1,44 @@
+#logoo {
+  color: greenyellow;
+  font-size: 50px;
+}
+.contact {
+  padding-top: 5px;
+  margin-top: 18px;
+}
+.header {
+  justify-content: center;
+}
+#btn1 {
+  margin-top: 12px;
+  font-size: 25px;
+  display: inline-block;
+  margin-right: 50px;
+}
+.content {
+  flex-direction: row;
+}
+#heading {
+  font-size: 60px;
+  margin-top: 100px;
+}
+#para {
+  margin-top: 40px;
+  font-size: 22px;
+}
+#btn2 {
+  background-color: greenyellow;
+  font-size: 30px;
+}
+.hh {
+  margin-top: 50px;
+}
+.hhh {
+  margin-top: 80px;
+}
+li {
+  font-size: 30px;
+}
+#paraa {
+  font-size: 20px;
+}
